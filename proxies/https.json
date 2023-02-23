@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "_id": "630280dbe607212ee58c785c",
+      "ip": "110.145.200.50",
+      "anonymityLevel": "anonymous",
+      "asn": "AS1221",
+      "city": "Brisbane",
+      "country": "AU",
+      "created_at": "2022-08-21T19:00:43.381Z",
+      "google": false,
+      "isp": "Telstra Corporation Limited",
+      "lastChecked": 1677128782,
+      "latency": 335,
+      "org": "Telstra Corporation",
+      "port": "10000",
+      "protocols": [
+        "https"
+      ],
+      "region": null,
+      "responseTime": 1179,
+      "speed": 244,
+      "updated_at": "2023-02-23T05:06:22.469Z",
+      "workingPercent": null,
+      "upTime": 99.90990990990991,
+      "upTimeSuccessCount": 1109,
+      "upTimeTryCount": 1110
+    },
+    {
+      "_id": "631e875b2fb0f02dd558d56a",
+      "ip": "162.250.112.65",
+      "anonymityLevel": "anonymous",
+      "asn": "AS63060",
+      "city": "Trafalgar",
+      "country": "US",
+      "created_at": "2022-09-12T01:11:55.108Z",
+      "google": false,
+      "isp": "ALTIUS Broadband, LLC",
+      "lastChecked": 1677128843,
+      "latency": 109,
+      "org": "ALTIUS Broadband, LLC",
+      "port": "8282",
+      "protocols": [
+        "https"
+      ],
+      "region": null,
+      "responseTime": 1194,
+      "speed": 199,
+      "updated_at": "2023-02-23T05:07:23.763Z",
+      "workingPercent": null,
+      "upTime": 97.63481551561021,
+      "upTimeSuccessCount": 1032,
+      "upTimeTryCount": 1057
+    }
+  ],
+  "total": 2,
+  "page": 1,
+  "limit": 500
+}
